@@ -1,0 +1,6 @@
+require("rogedev.plugins-setup")
+require("rogedev.core.options")
+require("rogedev.core.keymaps")
+require("rogedev.core.colorscheme")
+require("rogedev.plugins.comment")
+require("rogedev.plugins.nvim-tree")
