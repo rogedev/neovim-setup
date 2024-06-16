@@ -10,7 +10,7 @@ opt.shiftwidth = 2
 opt.expandtab = true
 opt.autoindent = true
 
--- line wrapping
+--line wrapping
 opt.wrap = false
 
 --search
