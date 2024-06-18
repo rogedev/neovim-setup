@@ -5,4 +5,6 @@ require("rogedev.core.colorscheme")
 require("rogedev.plugins.comment")
 require("rogedev.plugins.nvim-tree")
 require("rogedev.plugins.lualine")
+require("rogedev.plugins.nvim-cmp")
 require("rogedev.plugins.telescope")
+
