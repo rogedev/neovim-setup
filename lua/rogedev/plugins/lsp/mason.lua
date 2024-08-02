@@ -38,7 +38,7 @@ mason_null_ls.setup({
 		"stylua", -- lua formatter
 		"eslint_d", -- ts/js linter,
 		"gofumpt",
-		"goimports-resiver",
+		"goimports-reviser",
 		"golines",
 	},
 	-- auto-install configured formatters & linters (with null-ls)
