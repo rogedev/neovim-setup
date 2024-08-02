@@ -9,5 +9,5 @@ require("rogedev.plugins.telescope")
 require("rogedev.plugins.nvim-cmp")
 require("rogedev.plugins.lsp.mason")
 require("rogedev.plugins.lsp.lspconfig")
+require("rogedev.plugins.lsp.null-ls")
 require("rogedev.plugins.lsp.lspsaga")
-
